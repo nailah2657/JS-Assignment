@@ -76,7 +76,3 @@ This repository has solutions to 6 JavaScript problems given FWD assignment-04.
 **Time Complexity:** O(1) [No loop]
 
 ---
-
-## Conclusion
-
-All problems are solved using basic JavaScript without hardcoding, following assignment instructions.
